@@ -35,7 +35,7 @@ EQUATIONS
 
 [5] MAGNETIZATION (linear homogeneous core → Jm = 0)
     M(r) = (μᵣ−1)/μ₀ · B(r)   inside core
-    M(r) = 0                    outside core
+    M(r) = 0                  outside core
 
 [6] SURFACE BOUND CURRENT on S(u,v)
     Ks(u,v) = M(u,v) × n̂(u,v)
