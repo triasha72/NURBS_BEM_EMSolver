@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+geomdl
+# pythonocc-core must be installed via conda:
+# conda install -c conda-forge pythonocc-core
