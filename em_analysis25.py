@@ -33,9 +33,7 @@ import subprocess
 
 THIS_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# ═════════════════════════════════════════════════════════════════════════════
 # CONFIGURATION
-# ═════════════════════════════════════════════════════════════════════════════
 
 SOLENOID_DIR = r"C:\temp\solenoids_output"   # where solenoid_XX.step files live
 OUTPUT_DIR   = r"C:\temp\solenoids_output"   # where per-solenoid folders are created
