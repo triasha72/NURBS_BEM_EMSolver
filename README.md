@@ -118,7 +118,7 @@ where low-fidelity data augments scarce high-fidelity runs.
 | High  | N=50   | ~60s       | ~85–90%         | Expensive, scarce |
 | FEM   | —      | hours      | ground truth    | Future benchmark |
 
-**Dataset summary (25 solenoid geometries):**
+**Dataset summary (500+ solenoid geometries):**
 
 | Parameter              | Range          |
 |------------------------|----------------|
